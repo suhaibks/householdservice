@@ -20,8 +20,7 @@ EasyHome Services is a full-stack web application developed as part of a **colle
 - Separate navigation for users and admin
 
 ## 📁 Folder Structure
-
-
+![folderstructure](https://github.com/user-attachments/assets/9b4c49a3-b758-4f20-a43f-c7332c90ddaf)
 
 ## 📦 How to Run
 
