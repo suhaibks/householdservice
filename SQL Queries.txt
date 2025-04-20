@@ -62,7 +62,7 @@ INSERT INTO services (category, description, price, image) VALUES
 ('Carpenter', 'Furniture assembly, repair, and fittings.', 499.00, 'carpenter.jpg'),
 ('AC Service', 'AC installation, repair, and cleaning.', 699.00, 'ac_service.jpg');
 
-summary
+Summary
 
 Users Table:
 Stores registered users with fields like username, date of birth, email, address, and a hashed password.
