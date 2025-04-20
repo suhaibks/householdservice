@@ -30,6 +30,11 @@ EasyHome Services is a full-stack web application developed as part of a **colle
 3. Place the project folder inside `htdocs/`
 4. Open NetBeans and run the project or go to `http://localhost/HouseholdService`
 
+## ✨ Screenshots
+
+1. **Signup**
+   
+
 ## 🙌 Author
 
 This project was developed by Suhaib K S as part of a college mini project. Contributions welcome!
