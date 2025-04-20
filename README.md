@@ -33,7 +33,26 @@ EasyHome Services is a full-stack web application developed as part of a **colle
 ## ✨ Screenshots
 
 1. **Signup**
+
+
+2. **Login**
+
+
+3. **Admin Login**
+
+
+4. **Home**
+
+
+5. **Services**
+
+
+6. **About**
+
+
+7. **Contact**
    
+
 
 ## 🙌 Author
 
