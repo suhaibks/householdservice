@@ -48,7 +48,7 @@ EasyHome Services is a full-stack web application developed as part of a **colle
 
 
 5. **Home**
-   ![home1](https://github.com/user-attachments/assets/44860f48-e56f-4436-939c-16e3ada02f22)
+   ![WhatsApp Image 2025-04-24 at 8 36 51 PM](https://github.com/user-attachments/assets/e2fbb239-72b9-41bf-ad52-259b455d855d)
    ![home2](https://github.com/user-attachments/assets/0d049af1-485a-4d06-867e-1af80e308f5b)
    ![home3](https://github.com/user-attachments/assets/b6ef5da1-1f94-4fd0-9857-25c1375f06a5)
 
@@ -58,7 +58,7 @@ EasyHome Services is a full-stack web application developed as part of a **colle
 
 
 7. **About**
-   ![services](https://github.com/user-attachments/assets/20ef3a39-a2ba-4875-a93c-e7de4b266ca4)
+   ![about](https://github.com/user-attachments/assets/1badbf9d-1842-4067-b2c3-0e1b6c08d5a6)
 
 
 8. **Contact**
