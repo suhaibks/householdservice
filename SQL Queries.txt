@@ -56,11 +56,11 @@ CREATE TABLE messages (
 
 
 INSERT INTO services (category, description, price, image) VALUES
-('Electrician', 'Fix wiring, appliances, lights, fans and more.', 299.00, 'electrician.jpg'),
-('Plumber', 'Leak repairs, pipe fittings, and drainage issues.', 349.00, 'plumber.jpg'),
-('Cleaner', 'Deep cleaning for homes, kitchens, bathrooms, etc.', 399.00, 'cleaner.jpg'),
-('Carpenter', 'Furniture assembly, repair, and fittings.', 499.00, 'carpenter.jpg'),
-('AC Service', 'AC installation, repair, and cleaning.', 699.00, 'ac_service.jpg');
+('Electrician', 'Fix wiring, appliances, lights, fans and more.', 299.00, 'electrician.jpeg'),
+('Plumber', 'Leak repairs, pipe fittings, and drainage issues.', 349.00, 'plumber.jpeg'),
+('Cleaner', 'Deep cleaning for homes, kitchens, bathrooms, etc.', 399.00, 'cleaner.jpeg'),
+('Carpenter', 'Furniture assembly, repair, and fittings.', 499.00, 'carpenter.jpeg'),
+('AC Service', 'AC installation, repair, and cleaning.', 699.00, 'ac_service.jpeg');
 
 Summary
 
